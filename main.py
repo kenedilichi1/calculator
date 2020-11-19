@@ -1,5 +1,6 @@
 
 def add(x, y):
+    ''' Adds 2 numbers '''
     return x + y
 
 def subtract(x, y):
